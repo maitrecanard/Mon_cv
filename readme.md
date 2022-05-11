@@ -53,3 +53,5 @@ par le R&D
 - Escalade au service R&D
 - Entretien de la base de connaissances et rédactions de procédures
 - Mise en place de correctifs du R&D (scripts, patchs,..)
+
+[[LINKENDIN](https://www.linkedin.com/in/mathieu-siaudeau-241b98131/)]
