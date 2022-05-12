@@ -1,5 +1,5 @@
 # Développeur web et web mobile
-## PROFIL
+## PROFIL.
 
 Suite à une reconversion
 professionnelle. Depuis 2017,
