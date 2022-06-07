@@ -19,7 +19,17 @@ avec des clients exigeants.
 
 ## FORMATION
 
-AFPA Châtellerault
+### O'clock
+Depuis le 2 mai. Je suis en congé formation, pour devenir développeur web et web mobile
+
+### Dyma (formation en ligne dymsa.fr)<br>
+- 24 mars 2021
+Formation HTML/CSS [[Certificat de réussite](https://dyma.fr/certification/5fe274c197f1d61c7ce4de4c/5dab7f032482b13eb493df12)]<br>
+- 4 septembre 2021
+Formation JavaScript [[Certificat de réussite](https://dyma.fr/certification/5fe274c197f1d61c7ce4de4c/5de1a78332cf6b3128beee34)]
+
+
+### AFPA Châtellerault
 Février 2016 à Octobre 2016
 Equivalence BAC Technicien d'Assistance Informatique.
 - Montage, démontage et remise en état d’unité centrale.
@@ -35,7 +45,9 @@ Vmware et Hyper V.
 
 ## PARCOURS PROFESSIONNEL
 
-VIVATICKET
+
+
+### VIVATICKET
 
 Technicien de support fonctionnel
 13 juin 2017 à aujourd’hui
