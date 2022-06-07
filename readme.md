@@ -22,7 +22,7 @@ avec des clients exigeants.
 ### O'clock
 Depuis le 2 mai. Je suis en congé formation, pour devenir développeur web et web mobile
 
-### Dyma (formation en ligne dymsa.fr)<br>
+### Dyma (formation en ligne dyma.fr)<br>
 - 24 mars 2021
 Formation HTML/CSS [[Certificat de réussite](https://dyma.fr/certification/5fe274c197f1d61c7ce4de4c/5dab7f032482b13eb493df12)]<br>
 - 4 septembre 2021
